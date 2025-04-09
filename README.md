@@ -1,5 +1,6 @@
+<img align="right" alt="GIF" height="200px" src="https://github.com/Vante52/Vante52/blob/main/multimedia/githubBanner.gif"/>
+
 <h2> 𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> </h2>
-<img align="right" alt="GIF" height="230px" src="https://github.com/Vante52/Vante52/blob/main/multimedia/githubBanner.gif"/>
 
 - 🤓 Systems and Mechatronics Engineering student at [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/inicio).
 - 💻 Passionate about software development and robotics.
