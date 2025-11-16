@@ -4,7 +4,7 @@
 
 - 🤓 Systems and Mechatronics Engineering student at [Pontificia Universidad Javeriana](https://www.javeriana.edu.co/inicio).
 - 💻 Passionate about software development and robotics.
-- 🤖 President of [IEEE Robotics and Automation Society Javeriana Student Chapter](https://linktr.ee/rasjaverianaieee).
+- 🤖 Chair of [IEEE Robotics and Automation Society Javeriana Student Chapter](https://linktr.ee/rasjaverianaieee).
 - 📲 Experienced in QA and Mobile Development.
 - 🚀 Always curious, always learning.
 - 🌱 Excited to contribute to open source projects.
