@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" height="200px" src="https://github.com/Vante52/Vante52/blob/main/multimedia/githubBanner.gif"/>
+<img align="top" alt="GIF" height="100%" src="https://github.com/Vante52/Vante52/blob/main/multimedia/githubBanner.gif"/>
 
 <h2> 𝐇𝐞𝐥𝐥𝐨, <𝚌𝚘𝚍𝚎𝚛𝚜/> </h2>
 
@@ -6,7 +6,6 @@
 - 💻 Passionate about software development and robotics.
 - 🤖 Chair of [IEEE Robotics and Automation Society Javeriana Student Chapter](https://linktr.ee/rasjaverianaieee).
 - 📲 Experienced in QA and Mobile Development.
-- 🚀 Always curious, always learning.
 - 🌱 Excited to contribute to open source projects.
 ---
 <!--### Spotify Playing 🎧
@@ -17,9 +16,6 @@
 -->
 <h2> Programming Languages and Tools </h2>
 <p>
-  <a href="https://github.com/onimur/handle-path-oz">
-    <img width="45%" align="left" alt="Onimur's github stats" src="https://github-readme-stats.vercel.app/api?username=Vante52&show_icons=true" />
-  </a>
   
   <!-- Your languages and tools. Be careful with the alignment. 
   You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
